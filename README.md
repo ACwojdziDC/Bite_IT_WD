@@ -1,1 +1,1 @@
-# Bite_IT_WD
+#Bite it is an application that replaces the waiter in a restaurant. Using a smartphone / tablet it will be possible to order a full meal in the restaurant. It will significantly simplify and speed up the ordering process. Additionally, the second part of the application will be available to support restaurant managers. This is "API part".
