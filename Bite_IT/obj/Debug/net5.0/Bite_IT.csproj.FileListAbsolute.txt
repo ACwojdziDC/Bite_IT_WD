@@ -1,0 +1,146 @@
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\appsettings.Development.json
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\appsettings.json
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.exe
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.deps.json
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.runtimeconfig.json
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.runtimeconfig.dev.json
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\ref\Bite_IT.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.pdb
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Core.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Identity.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Npgsql.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.AssemblyInfoInputs.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.AssemblyInfo.cs
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.csproj.CoreCompileInputs.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\staticwebassets\Bite_IT.StaticWebAssets.Manifest.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\staticwebassets\Bite_IT.StaticWebAssets.xml
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\scopedcss\bundle\Bite_IT.styles.css
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.RazorTargetAssemblyInfo.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.csproj.CopyComplete
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\ref\Bite_IT.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.pdb
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.genruntimeconfig.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\AutoMapper.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Humanizer.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.csproj.AssemblyReference.cache
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.StaticWebAssets.xml
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Git\Bite_IT\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\appsettings.Development.json
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\appsettings.json
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.StaticWebAssets.xml
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.exe
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.deps.json
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.runtimeconfig.json
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.runtimeconfig.dev.json
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\ref\Bite_IT.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Bite_IT.pdb
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\AutoMapper.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Core.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Identity.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Humanizer.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Npgsql.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\C projects\Bite_IT\Bite_IT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.csproj.AssemblyReference.cache
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.GeneratedMSBuildEditorConfig.editorconfig
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.AssemblyInfoInputs.cache
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.AssemblyInfo.cs
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.csproj.CoreCompileInputs.cache
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.MvcApplicationPartsAssemblyInfo.cs
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.MvcApplicationPartsAssemblyInfo.cache
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\staticwebassets\Bite_IT.StaticWebAssets.Manifest.cache
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\staticwebassets\Bite_IT.StaticWebAssets.xml
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\scopedcss\bundle\Bite_IT.styles.css
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.RazorTargetAssemblyInfo.cache
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.csproj.CopyComplete
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.dll
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\ref\Bite_IT.dll
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.pdb
+C:\C projects\Bite_IT\Bite_IT\obj\Debug\net5.0\Bite_IT.genruntimeconfig.cache
